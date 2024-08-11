@@ -15,3 +15,5 @@
     - 或者是你有愛心8和Q，你也可以蓋掉愛心8，因為另外三家總會蓋掉9、10、J、K
     - 承上，當然你要蓋掉Q也無所謂，總是會有人蓋一張K
 * 直到沒有牌時，遊戲結束
+## Watch my demo video below!
+https://www.youtube.com/watch?v=MepVbut_TIY
