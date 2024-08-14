@@ -1,5 +1,5 @@
 # A-game-agent-using-pyautogui-and-opencv
-> This note record and share the midterm project of python course about using pyautohui and opencv to create a game agent
+> This note record and share the midterm project of python course in 【112上】 about using pyautohui and opencv to create a game agent
 ## How to run the code
 * Download the code and the cards file
 * Open them as a same project
